@@ -51,5 +51,4 @@ class NewEmojiTableViewController: UITableViewController {
         
         self.emoji = Emoji(emoji: emoji, name: name, description: description, isFavourite: false)
     }
-    
 }
